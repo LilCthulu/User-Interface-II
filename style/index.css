@@ -112,11 +112,6 @@ nav a {
     color: white;
 }
 
-.topBox img {
-    /* max-width: 90%; */
-    width: 30%;
-}
-
 
 .mainBlock {
     /* display: flex;
@@ -131,10 +126,11 @@ nav a {
 .topBox {
     width: 100%;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 
-.leftTop img {
-    width: 100%;
+.resizer {
+    height: 10%;
+    width: 20%;
 }
